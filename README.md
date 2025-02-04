@@ -70,6 +70,7 @@ Upon execution, an interactive 3D plot will open in your default web browser, al
 
 - **Interactive Display:**  
   The resulting plot is displayed in an interactive window, allowing you to pan, zoom, and rotate the 3D volume.
+  ![3D view of the layers](3D_view_of_the_layers.png)
 
 ## Customization
 
