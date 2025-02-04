@@ -33,11 +33,7 @@ pip install numpy plotly
 
 ## Usage
 
-Run the Python script using your preferred Python interpreter. For example:
-
-```bash
-python your_script_name.py
-```
+Run the `3D_reconstruction.ipynb` Jupyter notebook.
 
 Upon execution, an interactive 3D plot will open in your default web browser, allowing you to explore the reconstructed volume of curved-laminated thin films.
 
