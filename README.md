@@ -1,4 +1,3 @@
-```markdown
 # 3D Reconstruction of Curved-Laminated Thin Films
 
 This repository contains a Python script that generates a synthetic 3D volume representing curved-laminated thin films. The script constructs a 3D model of multiple thin film layers with a realistic curved structure and visualizes the result using Plotly's interactive 3D volume rendering.
